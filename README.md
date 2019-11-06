@@ -5,4 +5,7 @@ Este ejemplo nace gracias al gran trabajo de Documentación de Lazauk https://gi
 
 Para poder usar este código necesitas varias cosas:
 
-- ev3Dev
+- ev3Dev. ev3dev Es un sistema operativo basado en Linux que funciona tanto en los ladrillos de LEGO® MINDSTORMS EV3 como en una Raspberry Pi con asteroides gracias a BrickPi. 
+
+    ¿Como lo consigo?
+    
