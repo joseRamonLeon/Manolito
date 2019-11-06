@@ -1,5 +1,5 @@
 # Manolito
-Controla a Manolito (Kit 31313 de Lego Ev3 Mindstorms) con <b>Alexa</b> desde cualquier dispositivo compatible de <b>Amazon</b>.
+Controla a Manolito (<i>Kit 31313 de Lego Ev3 Mindstorms</i>) con <b>Alexa</b> desde cualquier dispositivo compatible de <b>Amazon</b>.
 
 Este ejemplo nace gracias al gran trabajo de Documentación de <b>Lazauk</b> https://github.com/LazaUK/AlexaGadgetKit-LegoEV3 que me ha permitido avanzar de 0 a 100 para poder disfrutar con Manolito desde cualquier dispositivo compatible con <b>Alexa.</b>
 
@@ -11,5 +11,5 @@ Para poder usar este código necesitas varias cosas:
     
     Para sincronizar tu <b>Ev3</b> con <b>ev3Dev</b> con un <b>Mac</b> (lo siento, pero no tengo tiempo para perder tiempo con un <i>windows<i/>, sus actualizaciones y todo su ser...), debería ser muy fácil, pero no se cumple la premisa esa de: "el orden de los factores no altera el producto", porque aquí <b>SI</b> que lo altera y ¡mucho!
     
-    
+    Veamos como hacerlo en modo texto o modo video (cuando haya tiempo...) 
     
