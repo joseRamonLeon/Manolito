@@ -5,7 +5,7 @@ Este ejemplo nace gracias al gran trabajo de Documentación de <b>Lazauk</b> htt
 
 Para poder usar este código necesitas varias cosas:
 
-- <b>ev3Dev</b>. Es un sistema operativo basado en <b>Linux que funciona tanto en los ladrillos de <b>LEGO® MINDSTORMS</b> EV3 como en una <b>Raspberry Pi</b> con asteroides gracias a <b>BrickPi</b>. 
+- <b>ev3Dev</b>. Es un sistema operativo basado en <b>Linux</b> que funciona tanto en los ladrillos de <b>LEGO® MINDSTORMS</b> EV3 como en una <b>Raspberry Pi</b> con asteroides gracias a <b>BrickPi</b>. 
 
     ¿Como lo consigo? ¡Muy fácil! en la web de <i>ev3Dev</i>: https://www.ev3dev.org/downloads/. También se puede conseguir directamente desde páginas de la web oficial de <b>Lego</b>, pero <b><i>¡ojo!</i></b> es una versión anterior. Funciona, pero la sincronización por Bluetooth no va muy fina y cuesta entender como hacerlo.
     
