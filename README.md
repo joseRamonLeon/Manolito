@@ -11,5 +11,10 @@ Para poder usar este código necesitas varias cosas:
     
     Para sincronizar tu <b>Ev3</b> con <b>ev3Dev</b> con un <b>Mac</b> (lo siento, pero no tengo tiempo para perder tiempo con un <i>windows<i/>, sus actualizaciones y todo su ser...), debería ser muy fácil, pero no se cumple la premisa esa de: "el orden de los factores no altera el producto", porque aquí <b>SI</b> que lo altera y ¡mucho!
     
-    Veamos como hacerlo en modo texto o modo video (cuando haya tiempo...) 
+    Veamos como hacerlo en modo modo video (incluiré la documentación en texto mas adelante...) 
     
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SSxdLdfKS5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6alAdD6sWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zy9iwp4Kgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
