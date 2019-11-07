@@ -24,6 +24,6 @@ Para poder usar este código necesitas varias cosas:
     </div>
    <div style="margin: 10px auto; text-align: center;">
     <a href="https://youtu.be/2zy9iwp4Kgs" target="_blank">
-        <img border="0" alt="Como implementar EV3DEV en tu brick de Lego EV3 (3ª parte: Controla ev3DEV con Visual Studio Code)" src="http://www.ytopic.es/ev3/videoev3devimagen1.jpg" width="980" height="685">
+        <img border="0" alt="Como implementar EV3DEV en tu brick de Lego EV3 (3ª parte: Controla ev3DEV con Visual Studio Code)" src="http://www.ytopic.es/ev3/videoev3devimagen3.jpg" width="980" height="685">
     </a>    
     </div>
