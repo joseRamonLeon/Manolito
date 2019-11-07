@@ -9,9 +9,7 @@ Para poder usar este código necesitas varias cosas:
 
     ¿Como lo consigo? ¡Muy fácil! en la web de <i>ev3Dev</i>: https://www.ev3dev.org/downloads/. También se puede conseguir directamente desde páginas de la web oficial de <b>Lego</b>, pero <b><i>¡ojo!</i></b> es una versión anterior. Funciona, pero la sincronización por Bluetooth no va muy fina y cuesta entender como hacerlo.
     
-    Para sincronizar tu <b>Ev3</b> con <b>ev3Dev</b> con un <b>Mac</b> (lo siento, pero no tengo tiempo para perder tiempo con un <i>windows<i/>, sus actualizaciones y todo su ser...), debería ser muy fácil, pero no se cumple la premisa esa de: "el orden de los factores no altera el producto", porque aquí <b>SI</b> que lo altera y ¡mucho!
-    
-    Veamos como hacerlo en modo modo video (incluiré la documentación en texto mas adelante...) 
+    Para sincronizar tu <b>Ev3</b> con <b>ev3Dev</b> con un <b>Mac</b>, lo tienes a continuación en video (incluiré la documentación en texto mas adelante...) 
     <div style="width: 100%; padding: 0; margin: 0 auto;">
     <span style="margin: 10px auto; text-align: center;"><a href="https://youtu.be/SSxdLdfKS5E" target="_blank" >
         <img border="0" alt="Como implementar EV3DEV en tu ladrillo de Lego EV3 Mindstorms (1ª parte: Descarga EV3DEV + MicroSD)" src="http://www.ytopic.es/ev3/videoev3devimagen1.jpg" width="260" height="182">
