@@ -14,16 +14,16 @@ Para poder usar este código necesitas varias cosas:
     Veamos como hacerlo en modo modo video (incluiré la documentación en texto mas adelante...) 
     
     <div style="width: 33%; display: inline-block; margin: 10px auto; text-align: center;"><a href="https://youtu.be/SSxdLdfKS5E" target="_blank" >
-        <img border="0" alt="Como implementar EV3DEV en tu ladrillo de Lego EV3 Mindstorms (1ª parte: Descarga EV3DEV + MicroSD)" src="http://www.ytopic.es/ev3/videoev3devimagen1.jpg" width="980" height="685">
+        <img border="0" alt="Como implementar EV3DEV en tu ladrillo de Lego EV3 Mindstorms (1ª parte: Descarga EV3DEV + MicroSD)" src="http://www.ytopic.es/ev3/videoev3devimagen1.jpg" width="326" height="228">
     </a>
     </div>
     <div style="width: 33%; display: inline-block; margin: 10px auto; text-align: center;">
     <a href="https://youtu.be/h6alAdD6sWc" target="_blank">
-        <img border="0" alt="Como implementar EV3DEV en tu ladrillo de Lego EV3 Mindstorms (2ª parte: Sincronización Bluetooth)" src="http://www.ytopic.es/ev3/videoev3devimagen2.jpg" width="980" height="685">
+        <img border="0" alt="Como implementar EV3DEV en tu ladrillo de Lego EV3 Mindstorms (2ª parte: Sincronización Bluetooth)" src="http://www.ytopic.es/ev3/videoev3devimagen2.jpg" width="326" height="228">
     </a>
     </div>
    <div style="width: 33%; display: inline-block; margin: 10px auto; text-align: center;">
     <a href="https://youtu.be/2zy9iwp4Kgs" target="_blank">
-        <img border="0" alt="Como implementar EV3DEV en tu brick de Lego EV3 (3ª parte: Controla ev3DEV con Visual Studio Code)" src="http://www.ytopic.es/ev3/videoev3devimagen3.jpg" width="980" height="685">
+        <img border="0" alt="Como implementar EV3DEV en tu brick de Lego EV3 (3ª parte: Controla ev3DEV con Visual Studio Code)" src="http://www.ytopic.es/ev3/videoev3devimagen3.jpg" width="326" height="228">
     </a>    
     </div>
