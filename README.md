@@ -26,3 +26,8 @@ Para poder usar este código necesitas varias cosas:
     </a> 
     </span>
     </div>
+    
+    Una vez que tenemos el ev3dev funcionando y conectado por wifi y por bluetooth a nuestro equipo, nos conectamos por SSH y lanzamos las dos siguientes órdenes:
+    
+<code>sudo apt-get update</code><br/>
+<code>sudo apt install python3-pip</code>
