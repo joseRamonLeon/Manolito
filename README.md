@@ -31,3 +31,11 @@ Para poder usar este código necesitas varias cosas:
     
 <code>sudo apt-get update</code><br/>
 <code>sudo apt install python3-pip</code>
+
+<p>Si nos dá este error:</p>
+
+<code>_bluetooth.error: (98, 'Address already in use')</code><br/>
+
+Podemos lanzar las siguientes instrucciones:
+
+
