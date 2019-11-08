@@ -39,3 +39,4 @@ Para poder usar este código necesitas varias cosas:
 Podemos lanzar las siguientes instrucciones:
 
 <code>sudo netstat -nlp | grep 8069</code><br/>
+<code>sudo kill -9 10869</code><br/>
