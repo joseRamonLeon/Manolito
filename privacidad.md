@@ -1,2 +1,1 @@
-
 <h2>Privacidad Skill Manolito</h2>
