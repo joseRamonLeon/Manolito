@@ -32,20 +32,7 @@ Para poder usar este código necesitas varias cosas:
     </a> 
     </span>
     </div>
-    
-    Una vez que tenemos el ev3dev funcionando y conectado por wifi y por bluetooth a nuestro equipo, nos conectamos por SSH y lanzamos las dos siguientes órdenes:
-    
-<code>sudo apt-get update</code><br/>
-<code>sudo apt install python3-pip</code>
 
-<p>Si nos dá este error:</p>
-
-<code>_bluetooth.error: (98, 'Address already in use')</code><br/>
-
-Podemos lanzar las siguientes instrucciones:
-
-<code>sudo netstat -nlp | grep 8069</code><br/>
-<code>sudo kill -9 10869</code><br/>
 </li>
 <li><b>Kit 31313 de Lego Ev3 Mindstorms</b>: Puedes adquirirlo en <a href="https://www.amazon.es/s?k=lego+31313&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2" target="_blank"><b>Amazon</b></a>, en la tienda online de Lego, asi como en las tiendas de juguetería de tu pueblo o ciudad.</li>
 
