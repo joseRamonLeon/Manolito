@@ -1,0 +1,239 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "manolito",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MoveIntent",
+                    "slots": [
+                        {
+                            "name": "Direction",
+                            "type": "DirectionType"
+                        },
+                        {
+                            "name": "Duration",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "{Direction} ahora",
+                        "{Direction} {Duration} segundos",
+                        "gira {Direction} durante {Duration} segundos"
+                    ]
+                },
+                {
+                    "name": "SetSpeedIntent",
+                    "slots": [
+                        {
+                            "name": "Speed",
+                            "type": "AMAZON.NUMBER"
+                        }
+                    ],
+                    "samples": [
+                        "velocidad {Speed} porciento",
+                        "{Speed} porciento de velocidad",
+                        "velocidad al {Speed} porciento"
+                    ]
+                },
+                {
+                    "name": "SetCommandIntent",
+                    "slots": [
+                        {
+                            "name": "Command",
+                            "type": "CommandType"
+                        }
+                    ],
+                    "samples": [
+                        "activa el modo {Command}",
+                        "muevete en {Command}",
+                        "dispara {Command}",
+                        "activa {Command}"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "DirectionType",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "adelante"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "palante"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "avanza"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "atras"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "retrocede"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "patras"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "vuelve"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "izquierda"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "a la izquierda"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "gira a la izquierda"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "derecha"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "a la derecha"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "gira a la derecha"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "para"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "frena"
+                            }
+                        },                      
+                        {
+                            "name": {
+                                "value": "sooo"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "CommandType",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "centinela"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "modo centinela"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "activa el modo centinela"
+                            }
+                        },  
+                        {
+                            "name": {
+                                "value": "firmes"
+                            }
+                        },                                                                 
+                        {
+                            "name": {
+                                "value": "circulo"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "cuadrado"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "muevete en circulo"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "muevete en cuadrado"
+                            }
+                        },                        
+                        {
+                            "name": {
+                                "value": "patrulla"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "modo patrulla"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "disparo"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dale con todo"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dispara todo"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "dispara"
+                            }
+                        },                        
+                        {
+                            "name": {
+                                "value": "un disparo"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
