@@ -1,7 +1,7 @@
 
 <h2>Términos de uso</h2>
 
-<p>Esta Skill tiene como fin el disfrute de la interacción de tu Kit Lego 31313 EV3 Mindstorm guiado desde cualquier dispositivo de Amazon compatible con Alexa en Castellano. 
+<p>Esta Skill tiene como fin el disfrute de la interacción de tu Kit Lego 31313 EV3 Mindstorm guiado desde cualquier dispositivo de Amazon compatible con Alexa en Castellano.</p>
 <p>El código usado para hacerla funcionar es propiedad de Amazon. Si quieres usarlo, deberás respetar su licencia de uso.</p>
 <p>Para hacer funcionar el código, es necesario el uso del Sistema Operativo <b>ev3dev</b> en una <i>microSD</i> insertada en el ladrillo de tu Kit de Lego 31313. Este Sistema Operativo puedes descargarlo de forma gratuita desde su web: <a href="https://www.ev3dev.org/" target="_blank"><b>Descargar EV3DEV</b></a></p>
 
