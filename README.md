@@ -1,9 +1,15 @@
 # Manolito
 Controla a Manolito (<i>Kit 31313 de Lego Ev3 Mindstorms</i>) con <b>Alexa</b> desde cualquier dispositivo compatible de <b>Amazon</b>.
 
-Este ejemplo nace gracias al gran trabajo de Documentación de <b>Lazauk</b> https://github.com/LazaUK/AlexaGadgetKit-LegoEV3 que me ha permitido avanzar de 0 a 100 para poder disfrutar con Manolito desde cualquier dispositivo compatible con <b>Alexa.</b>
+Este ejemplo nace gracias al gran trabajo de Documentación de <b>Lazauk</b> https://github.com/LazaUK/AlexaGadgetKit-LegoEV3 que me ha permitido avanzar de 0 a 100 para poder disfrutar con Manolito desde cualquier dispositivo compatible con <b>Alexa.</b> 
+
+<p>También se ha usado el material que Amazon ha suministrado para el concurso de <a href="https://www.hackster.io/contests/alexa-lego-voice-challenge" target="_blank"><b>LEGO MINDSTORMS Voice Challenge</b></a>
 
 Para poder usar este código necesitas varias cosas:
+
+<ul>
+
+<li><b>Tarjeta microSD</b>: En esta tarjeta implementaremos un sistema operativo compatible con el Ladrillo de Ev3 así como en BrickPi (RaspberryPi)
 
 - <b>ev3Dev</b>. Es un sistema operativo basado en <b>Linux</b> que funciona tanto en los ladrillos de <b>LEGO® MINDSTORMS</b> EV3 como en una <b>Raspberry Pi</b> con asteroides gracias a <b>BrickPi</b>. 
 
@@ -40,3 +46,12 @@ Podemos lanzar las siguientes instrucciones:
 
 <code>sudo netstat -nlp | grep 8069</code><br/>
 <code>sudo kill -9 10869</code><br/>
+</li>
+<li><b>Kit 31313 de Lego Ev3 Mindstorms</b>: Puedes adquirirlo en <a href="https://www.amazon.es/s?k=lego+31313&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2" target="_blank"><b>Amazon</b></a>, en la tienda online de Lego, asi como en las tiendas de juguetería de tu pueblo o ciudad.</li>
+
+<li><b>Dispositivo Amazon compatible con Alexa</b>: Puedes adquirir cualquiera de estos dispositvos en <a href="https://www.amazon.es/s?k=alexa" target="_blank"><b>Amazon</b></a>.</li>
+<li><b>App Amazon Alexa</b>: Esta aplicación es gratuita, y podrás adquirila de forma gratuita desde tu App Store:
+- Android: Descargar App desde <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=es" target="_blank"><b>Google Play Store</b></a>.
+- IOS: Desdcargar App desde la <a href="https://apps.apple.com/us/app/amazon-alexa/id944011620" target="_blank"><b>App Store</b></a>.
+</li>
+</ul>
