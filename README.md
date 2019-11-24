@@ -51,7 +51,8 @@ Podemos lanzar las siguientes instrucciones:
 
 <li><b>Dispositivo Amazon compatible con Alexa</b>: Puedes adquirir cualquiera de estos dispositvos en <a href="https://www.amazon.es/s?k=alexa" target="_blank"><b>Amazon</b></a>.</li>
 <li><b>App Amazon Alexa</b>: Esta aplicación es gratuita, y podrás adquirila de forma gratuita desde tu App Store:
-- Android: Descargar App desde <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=es" target="_blank"><b>Google Play Store</b></a>.
-- IOS: Desdcargar App desde la <a href="https://apps.apple.com/us/app/amazon-alexa/id944011620" target="_blank"><b>App Store</b></a>.
+<ul>
+<li>Android: Descargar App desde <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=es" target="_blank"><b>Google Play Store</b></a>.</li>
+<li>IOS: Desdcargar App desde la <a href="https://apps.apple.com/us/app/amazon-alexa/id944011620" target="_blank"><b>App Store</b></a>.</li>
 </li>
 </ul>
