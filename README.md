@@ -42,11 +42,9 @@ Para poder usar este código necesitas varias cosas:
 <li>Android: Descargar App desde <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=es" target="_blank"><b>Google Play Store</b></a>.</li>
 <li>IOS: Desdcargar App desde la <a href="https://apps.apple.com/us/app/amazon-alexa/id944011620" target="_blank"><b>App Store</b></a>.</li>
 </li>
+</ul>
 <p>Una vez que tengas todo podrás disfrutar con tu Kit Lego Mindstorm y tu dispositivo Alexa preferido.</p>
 <div style="width: 100%; padding: 0; margin: 0 auto;">
     <span style="margin: 10px auto; text-align: center;"><a href="https://youtu.be/sr6wtALugVs" target="_blank" >
-        <img border="0" alt="Controla a Manolito (Kit 31313 Lego Mindstorm) con tu dispositivo Alexa" src="http://www.ytopic.es/ev3/videoev3devimagen4.jpg" width="260" height="182">
+        <img border="0" alt="Controla a Manolito (Kit 31313 Lego Mindstorm) con tu dispositivo Alexa" src="http://www.ytopic.es/ev3/videoev3devimagen4.jpg">
     </a>
-
-
-</ul>
